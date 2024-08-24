@@ -7,4 +7,4 @@
 Debloatar o Discord pode aumentar a eficiência do aplicativo, especialmente em sistemas com recursos limitados. A remoção ou desativação de funcionalidades e recursos desnecessários reduz o consumo de memória e processamento, tornando o Discord mais rápido e responsivo. Além disso, esse processo pode ajudar a minimizar a desordem na interface, proporcionando uma experiência mais focada e agradável.
 
 # Tutorial de Como Configurar e Debloatar
-(Click Here)[https://youtu.be/nTQZOIF0_mE]
+[Click Here](https://youtu.be/nTQZOIF0_mE)
